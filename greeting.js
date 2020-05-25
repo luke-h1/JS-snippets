@@ -1,5 +1,5 @@
 const name = 'luke' ; 
-const person = { first: name}; 
+const person = {first: name}; 
 
 console.log(person); 
 
